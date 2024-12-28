@@ -1,3 +1,4 @@
+![SequenceDiagram](https://github.com/user-attachments/assets/f45db4a4-eadb-4a62-b83b-15700effc0f7)
 # Ecosystem : "Tatbi9" 
 ### __Directed By : Omar Chokayri 22379__
 
