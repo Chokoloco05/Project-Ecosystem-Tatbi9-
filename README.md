@@ -12,7 +12,7 @@
 
 ## Diagrams : 
 - Sequence Diagram :
-![image](https://github.com/Chokoloco05/Project-Ecosystem-Tatbi9-/blob/main/SequenceDiagram.png)
+- ![image](https://github.com/Chokoloco05/Project-Ecosystem-Tatbi9-/blob/main/SequenceDiagram.png)
 - Class Diagram :
 
 ##  SOLID Principles : 
