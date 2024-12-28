@@ -1,5 +1,5 @@
-# Ecosystème "Tatbi9" 
-## __Directed By : Omar Chokayri__
+# Ecosystem : "Tatbi9" 
+### __Directed By : Omar Chokayri__
 
 
 ## How does the simulation work ?
