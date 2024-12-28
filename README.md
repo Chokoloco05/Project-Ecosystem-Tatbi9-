@@ -1,4 +1,4 @@
-![SequenceDiagram](https://github.com/user-attachments/assets/f45db4a4-eadb-4a62-b83b-15700effc0f7)
+
 # Ecosystem : "Tatbi9" 
 ### __Directed By : Omar Chokayri 22379__
 
@@ -12,13 +12,9 @@
 
 ## Diagrams : 
 - Sequence Diagram :
-<picture>
-  <img src="https://github.com/Chokoloco05/Project-Ecosystem-Tatbi9-/blob/main/SequenceDiagram.png">
-<picture>
+![SequenceDiagram](https://github.com/user-attachments/assets/f45db4a4-eadb-4a62-b83b-15700effc0f7)
 - Class Diagram :
-<picture>
-  <img src="https://github.com/Chokoloco05/Project-Ecosystem-Tatbi9-/blob/main/SequenceDiagram.png">
-<picture>
+![SequenceDiagram](https://github.com/user-attachments/assets/f45db4a4-eadb-4a62-b83b-15700effc0f7)
   
 ##  SOLID Principles : 
 -  Liskov Substitution Principle : 
