@@ -12,7 +12,7 @@
 ## Diagrams : 
 - Sequence Diagram :
 
-  ![image] (https://github.com/Chokoloco05/Project-Ecosystem-Tatbi9-/blob/main/SequenceDiagram.png)
+  ![image] (https://raw.githubusercontent.com/Chokoloco05/Project-Ecosystem-Tatbi9-/refs/heads/main/SequenceDiagram.png)
   
 - Class Diagram :
   
