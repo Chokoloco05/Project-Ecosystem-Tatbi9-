@@ -10,10 +10,12 @@
 - In the simulation, entities are represented with specific visual symbols: a red circle denotes a male carnivorous animal, while a pink circle represents a female carnivorous animal. A blue circle signifies a male herbivorous animal, and a light blue circle indicates a female herbivorous animal. Green circles represent plants, small Indian red circles symbolize meat, and brown ellipses signify poop.
 
 ## Diagrams : 
-- Class Diagram : 
-
-- Sequence Diagram : 
-
+- Sequence Diagram :
+  
+  ![image] (https://github.com/Chokoloco05/Project-Ecosystem-Tatbi9-/blob/main/SequenceDiagram.png)
+  
+- Class Diagram :
+  
 ##  SOLID Principles : 
 -  Liskov Substitution Principle : 
     - Every type should be replaceable by a subtype without making the program semantically incorrect. In our code, we define many arguments for subclass constructors, ensuring the code remains flexible and semantically correct.
