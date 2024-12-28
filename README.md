@@ -12,10 +12,9 @@
 
 ## Diagrams : 
 - Sequence Diagram :
-![SequenceDiagram](https://github.com/user-attachments/assets/f45db4a4-eadb-4a62-b83b-15700effc0f7)
+
 - Class Diagram :
-![SequenceDiagram](https://github.com/user-attachments/assets/f45db4a4-eadb-4a62-b83b-15700effc0f7)
-  
+
 ##  SOLID Principles : 
 -  Liskov Substitution Principle : 
     - Every type should be replaceable by a subtype without making the program semantically incorrect. In our code, we define many arguments for subclass constructors, ensuring the code remains flexible and semantically correct.
