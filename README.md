@@ -14,6 +14,7 @@
 - Sequence Diagram :
 - ![image](https://github.com/Chokoloco05/Project-Ecosystem-Tatbi9-/blob/main/SequenceDiagram.png)
 - Class Diagram :
+- ![image](https://github.com/Chokoloco05/Project-Ecosystem-Tatbi9-/blob/main/Class%20diagram.png)
 
 ##  SOLID Principles : 
 -  Liskov Substitution Principle : 
