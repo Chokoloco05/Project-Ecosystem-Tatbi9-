@@ -1,0 +1,10 @@
+<Window xmlns="https://github.com/avaloniaui"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:local="clr-namespace:Tatbi9"
+        x:Class="Tatbi9.MainWindow"
+        Title="MainWindow" Width="800" Height="600">
+	<StackPanel>
+		<!-- ContentControl pour afficher dynamiquement Menu ou Simu -->
+		<ContentControl x:Name="MainContent"/>
+	</StackPanel>
+</Window>

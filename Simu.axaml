@@ -1,0 +1,79 @@
+﻿<UserControl xmlns="https://github.com/avaloniaui"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:drawable="clr-namespace:Tatbi9;assembly=Tatbi9"
+        x:Class="Tatbi9.Simu"
+        Title="Simu"
+        Background="#FFA07A"
+		Width="1400" Height="650">
+		
+
+	<!-- Définition des ressources -->
+	<Window.Resources>
+		<drawable:Simulation x:Key="Simulation"/>
+	</Window.Resources>
+
+	<!-- Conteneur principal : StackPanel vertical -->
+	<StackPanel Orientation="Vertical">
+
+		<!-- Zone graphique (simulation de la GraphicsView de MAUI) -->
+		<Canvas x:Name="graphics"
+                Width="1400" Height="650"
+                Background="#FFA07A">
+			<!-- Remplacer ce bloc par un dessin personnalisé si nécessaire -->
+		</Canvas>
+
+		<!-- Boutons dans un StackPanel horizontal -->
+		<StackPanel Orientation="Horizontal" HorizontalAlignment="Center" VerticalAlignment="Center">
+
+			<Button Name="PauseBtn"
+                    Content="Pause"
+                    FontSize="28"
+                    Foreground="White"
+                    BorderBrush="Black"
+                    BorderThickness="3"
+                    Background="Orange"
+                    Click="PauseClicked"
+                    HorizontalAlignment="Center" VerticalAlignment="Top" />
+
+			<Button Name="CountBtn"
+                    Content="Count living beings"
+                    FontSize="28"
+                    Foreground="White"
+                    BorderBrush="Black"
+                    BorderThickness="3"
+                    Background="Orange"
+                    Click="CountClicked"
+                    HorizontalAlignment="Center" VerticalAlignment="Top" />
+
+			<Button Name="AddAnimalBtn"
+                    Content="Add Animal"
+                    FontSize="28"
+                    Foreground="White"
+                    BorderBrush="Black"
+                    BorderThickness="3"
+                    Background="Orange"
+                    Click="AddAnimalClicked"
+                    HorizontalAlignment="Center" VerticalAlignment="Top" />
+
+			<Button Name="AddPlantBtn"
+                    Content="Add Plant"
+                    FontSize="28"
+                    Foreground="White"
+                    BorderBrush="Black"
+                    BorderThickness="3"
+                    Background="Orange"
+                    Click="AddPlantClicked"
+                    HorizontalAlignment="Center" VerticalAlignment="Top" />
+
+			<Button Name="Showbtn"
+                    Content="Show Hitbox"
+                    FontSize="28"
+                    Foreground="White"
+                    BorderBrush="Black"
+                    BorderThickness="3"
+                    Background="Orange"
+                    Click="Showhitboxes"
+                    HorizontalAlignment="Center" VerticalAlignment="Top" />
+		</StackPanel>
+	</StackPanel>
+</UserControl>
